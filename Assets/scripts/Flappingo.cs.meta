@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5889887911c82fa44aac8869cac8472a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpSound: {fileID: 8300000, guid: 3292833db1afc4c4685f42c1bdf487ad, type: 3}
+  - gameOverSound: {fileID: 8300000, guid: 3791de20b2de9ea4db5c9151ebe573f0, type: 3}
+  - scoreSound: {fileID: 8300000, guid: 577cf1ffa6a66284884e21690ed754ff, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
